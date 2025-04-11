@@ -9,3 +9,15 @@ __pycache__/
 dist/
 build/
 *.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.env/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Local configuration
+.DS_Store
