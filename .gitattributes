@@ -1,2 +1,11 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
