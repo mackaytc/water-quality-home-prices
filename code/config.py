@@ -31,5 +31,6 @@ RAW_DATA_DIR = os.path.join(DATA_DIR, "raw-data")
 RAW_HOME_PRICE_DIR = os.path.join(RAW_DATA_DIR, "home-price-data")
 RAW_CWS_DIR = os.path.join(RAW_DATA_DIR, "CWS-service-boundaries")
 RAW_EPA_DIR = os.path.join(RAW_DATA_DIR, "EPA-SDWIS-downloads")
+RAW_ZCTA_DIR = os.path.join(RAW_DATA_DIR, "ZCTA-census-boundaries")
 
 PROCESSED_DATA_DIR = os.path.join(DATA_DIR, "processed-data")
